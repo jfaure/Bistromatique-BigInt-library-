@@ -1,1 +1,1 @@
-# Bistromatique-BigInt-library-
+# Bistromatique (BigInt-library)
